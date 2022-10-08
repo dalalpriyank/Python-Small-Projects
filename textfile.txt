@@ -1,0 +1,822 @@
+The operation couldn't be performed because object 'ajayenthiran@na.venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d4825e3d-743d-493e-b22b-7267ad53b994,TimeStamp=8/26/2022 2:29:22 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] FE76BAAA,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'admin' have been modified.
+The operation couldn't be performed because object 'apekler@venusconcept.onmicrosoft.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=543e0b81-dad1-481f-886d-b347aea8664f,TimeStamp=8/26/2022 2:29:35 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 7F522838,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Ali Jalini" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Ali Jalini' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Ali Jalini:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d823de8c-ab08-4475-99c0-17ba713e3e81,TimeStamp=8/26/2022 2:29:35 PM] [FailureCategory=Cmdlet-InvalidOperationException] 54533595,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Ali Shekarabi" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Ali Shekarabi' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Ali Shekarabi:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d11cce49-b5e4-4db3-b74f-c3dbc573ec64,TimeStamp=8/26/2022 2:29:36 PM] [FailureCategory=Cmdlet-InvalidOperationException] E808478C,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'alombardi@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ce816058-71ad-47f1-a19e-f81d0a21ebe4,TimeStamp=8/26/2022 2:29:37 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] CFE7E68,Microsoft.Exchange.Management.Recipie
+   ntTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Amane Abdurhman" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Amane Abdurhman' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Amane Abdurhman:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=89dd6d4e-041d-4996-a9b0-3f87748c35c0,TimeStamp=8/26/2022 2:29:37 PM] [FailureCategory=Cmdlet-InvalidOperationException] 49FCE054,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Amerfina Estacio" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Amerfina Estacio' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Amerfina Estacio:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=f7c773c8-44d5-4b86-9734-430d17a7761b,TimeStamp=8/26/2022 2:29:38 PM] [FailureCategory=Cmdlet-InvalidOperationException] FB875145,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'andres.duron' have been modified.
+WARNING: The command completed successfully but no settings of 'andreww' have been modified.
+The operation on mailbox "Aniisa Ali" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Aniisa Ali' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Aniisa Ali:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d6633224-e4eb-49fa-a874-d27209fe6035,TimeStamp=8/26/2022 2:29:40 PM] [FailureCategory=Cmdlet-InvalidOperationException] 159470F1,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Anisah Vidale" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Anisah Vidale' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Anisah Vidale:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=3daa07ad-c73f-4901-9d55-8b78fc6f4dba,TimeStamp=8/26/2022 2:29:40 PM] [FailureCategory=Cmdlet-InvalidOperationException] 13E1F17F,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'acresci@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=9e4ad2e0-328f-4bb4-838d-b715dddd5fd2,TimeStamp=8/26/2022 2:29:41 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] F1B691FF,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Antoine Leduez" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Antoine Leduez' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Antoine Leduez:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ed6fa690-58ab-4e5c-b5ec-912dc519d5a8,TimeStamp=8/26/2022 2:29:42 PM] [FailureCategory=Cmdlet-InvalidOperationException] 1A64DF49,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'ari@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0522163e-0169-4b9b-8bb7-98b0050b99ac,TimeStamp=8/26/2022 2:29:42 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 87D8AD1F,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'asomeha@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=c3eb7c65-7763-4c3c-beed-95de35972af2,TimeStamp=8/26/2022 2:29:43 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 874029B5,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'bmurugan@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=3742ca4f-829b-4857-a98e-0f84a7243a95,TimeStamp=8/26/2022 2:29:44 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] B2C6AA6,Microsoft.Exchange.Management.Recipie
+   ntTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Brandon  Morgenstern" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Brandon  Morgenstern' because the
+object is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Brandon  Morgenstern:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=bff575e1-a854-4267-b3c4-1295aaaf0fe7,TimeStamp=8/26/2022 2:29:45 PM] [FailureCategory=Cmdlet-InvalidOperationException] E84A3EE8,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'bhebior' have been modified.
+The operation on mailbox "Caitlin Cummings" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Caitlin Cummings' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Caitlin Cummings:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=3cf292bb-cee0-43ed-9aa7-5d07b9fa5c1f,TimeStamp=8/26/2022 2:29:46 PM] [FailureCategory=Cmdlet-InvalidOperationException] 9E185B21,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Carlos Pérez" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Carlos Pérez' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Carlos Pérez:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ac050383-5c27-4e59-bc4f-5386d5a78fc9,TimeStamp=8/26/2022 2:29:47 PM] [FailureCategory=Cmdlet-InvalidOperationException] 1848ACDE,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'cbradbury@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=98ffbe83-dd13-451b-b6f9-5d19539a4fad,TimeStamp=8/26/2022 2:29:47 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] BB8FE635,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'cwalker@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0bbe98b5-bc75-4368-814c-0a810e5cbc33,TimeStamp=8/26/2022 2:29:48 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] E6E28C7E,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Chahrazad Halloumi" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Chahrazad Halloumi' because the
+object is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Chahrazad Halloumi:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=3c1deac7-b6c1-428c-a0ee-5570c2ed8774,TimeStamp=8/26/2022 2:29:48 PM] [FailureCategory=Cmdlet-InvalidOperationException] 6E1559E9,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'ccolman@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0c0d6285-821e-4a49-bebd-e4d208191e10,TimeStamp=8/26/2022 2:29:49 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 1C1AEFF2,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'clehr@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=f22312a3-7d36-444e-85c8-c08cb2d8cb20,TimeStamp=8/26/2022 2:29:50 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 45C0FBCD,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Danica Rodney" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Danica Rodney' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Danica Rodney:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d73f3315-0fdc-4f07-91b2-b475813fb704,TimeStamp=8/26/2022 2:29:52 PM] [FailureCategory=Cmdlet-InvalidOperationException] 83A10337,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'dlopez@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=a2567555-a099-413b-be80-391e3f28569e,TimeStamp=8/26/2022 2:29:52 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] E4C23E29,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Daniela Contreras" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Daniela Contreras' because the object
+is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Daniela Contreras:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=14c08ead-1522-412e-ad80-d0d59e2b99b9,TimeStamp=8/26/2022 2:29:53 PM] [FailureCategory=Cmdlet-InvalidOperationException] CB1BBCD3,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Danny Carson" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Danny Carson' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Danny Carson:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=03d555a7-8da3-4f5b-8df5-23445deb0ce4,TimeStamp=8/26/2022 2:29:54 PM] [FailureCategory=Cmdlet-InvalidOperationException] C7DBBEAE,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "David Walden" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'David Walden' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (David Walden:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=eb7d19d7-5a1f-40e4-a4ce-d0435681dd45,TimeStamp=8/26/2022 2:29:56 PM] [FailureCategory=Cmdlet-InvalidOperationException] 670C3A73,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'doug@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=f9793aa5-d955-4a93-97a8-6227eaa80f36,TimeStamp=8/26/2022 2:29:58 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] CD1D7026,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Eddine Liamidi" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Eddine Liamidi' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Eddine Liamidi:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=63e764ff-86f1-482e-a91a-bf3999f5bf9c,TimeStamp=8/26/2022 2:29:58 PM] [FailureCategory=Cmdlet-InvalidOperationException] E9DB36D2,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Elena Cacharro" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Elena Cacharro' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Elena Cacharro:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=99787a79-825c-473e-be98-51b3b5fcb8f6,TimeStamp=8/26/2022 2:29:58 PM] [FailureCategory=Cmdlet-InvalidOperationException] 654D876E,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'elena@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=15b50ea3-b3b4-44c1-a3d4-560b91491388,TimeStamp=8/26/2022 2:29:59 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 58E59030,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Emri Valtzer" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Emri Valtzer' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Emri Valtzer:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=683c71a8-d632-4b59-b8b0-e5402b70fe12,TimeStamp=8/26/2022 2:30:00 PM] [FailureCategory=Cmdlet-InvalidOperationException] 69C50A79,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'engvacation' have been modified.
+The operation on mailbox "Fatma Petkova" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Fatma Petkova' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Fatma Petkova:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0495c703-6c08-4568-941e-83fc48dcd5f2,TimeStamp=8/26/2022 2:30:02 PM] [FailureCategory=Cmdlet-InvalidOperationException] B250FC9,Microsoft.Exchange.Management.RecipientTasks.
+   SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Garik Kalajyan" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Garik Kalajyan' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Garik Kalajyan:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=3d0a5161-9047-4f3c-b687-b3eeee7adc5b,TimeStamp=8/26/2022 2:30:03 PM] [FailureCategory=Cmdlet-InvalidOperationException] 949129A1,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Gayle Forgeard" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Gayle Forgeard' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Gayle Forgeard:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=2e788cd1-6833-4e47-99a6-a494d5bdf82f,TimeStamp=8/26/2022 2:30:03 PM] [FailureCategory=Cmdlet-InvalidOperationException] 38BAF0EE,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Haim Epstein" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Haim Epstein' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Haim Epstein:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=5c5ecf94-79fb-4c6e-a51a-d774dfc45110,TimeStamp=8/26/2022 2:30:07 PM] [FailureCategory=Cmdlet-InvalidOperationException] 12B5E175,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Igor Ginzburg" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Igor Ginzburg' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Igor Ginzburg:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=57ef4f1b-b678-433b-9bc5-39df6a05ad07,TimeStamp=8/26/2022 2:30:08 PM] [FailureCategory=Cmdlet-InvalidOperationException] 5050F517,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Igor Korol" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Igor Korol' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Igor Korol:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=b66df7e8-bab4-4cec-9ba6-35eb55244231,TimeStamp=8/26/2022 2:30:08 PM] [FailureCategory=Cmdlet-InvalidOperationException] BF0B1D04,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Ismael Mancha" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Ismael Mancha' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Ismael Mancha:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=004c0de8-c1f8-4550-8980-6d5ec7b1be85,TimeStamp=8/26/2022 2:30:09 PM] [FailureCategory=Cmdlet-InvalidOperationException] CEA4E8CF,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Jack Keane" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Jack Keane' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Jack Keane:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=1f57afa2-1886-41d3-bf76-2fd84dda6fd2,TimeStamp=8/26/2022 2:30:10 PM] [FailureCategory=Cmdlet-InvalidOperationException] 9BC08FFF,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Jasmine Mehta" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Jasmine Mehta' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Jasmine Mehta:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=008fba9b-e00e-48f9-a8ff-5a86fe73744c,TimeStamp=8/26/2022 2:30:10 PM] [FailureCategory=Cmdlet-InvalidOperationException] 3FB2FCBA,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Jason Shaw" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Jason Shaw' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Jason Shaw:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=318c311d-5fda-4846-9ec7-778f76e15b82,TimeStamp=8/26/2022 2:30:11 PM] [FailureCategory=Cmdlet-InvalidOperationException] 98FC5C7C,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Javier Rodriguez" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Javier Rodriguez' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Javier Rodriguez:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=eef5eed4-e727-4bf0-8ce6-ac0a9b014aaf,TimeStamp=8/26/2022 2:30:11 PM] [FailureCategory=Cmdlet-InvalidOperationException] 63757F76,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'jseymour@na.venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=7bc77a0d-eaee-4a86-94d1-7eb526f0ac0d,TimeStamp=8/26/2022 2:30:12 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 88A15F6E,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'jvivas@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=1b8979cd-5091-423e-8fa5-70d54f0aebaf,TimeStamp=8/26/2022 2:30:12 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 9AF4307E,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Jordan Hodge" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Jordan Hodge' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Jordan Hodge:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=3cfe20e7-18c3-4356-b58f-62b94aad5685,TimeStamp=8/26/2022 2:30:14 PM] [FailureCategory=Cmdlet-InvalidOperationException] 33A62939,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Jose Miguel Bazaldua Rodriguez" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Jose Miguel Bazaldua
+Rodriguez' because the object is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Jose Miguel Bazaldua Rodriguez:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=c2a0386f-fcc3-4715-9dbd-429ae6b16f79,TimeStamp=8/26/2022 2:30:15 PM] [FailureCategory=Cmdlet-InvalidOperationException] 70D3AA63,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Josh Kofsky" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Josh Kofsky' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Josh Kofsky:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=a4d6a2d3-204f-49c1-82d6-e26f6e96a439,TimeStamp=8/26/2022 2:30:15 PM] [FailureCategory=Cmdlet-InvalidOperationException] 14B56B75,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Joshua Medders" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Joshua Medders' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Joshua Medders:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=1446d2cb-d10d-4449-b375-fef83dbaefdd,TimeStamp=8/26/2022 2:30:16 PM] [FailureCategory=Cmdlet-InvalidOperationException] B4D4A33E,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'jshim@na.venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=a8903ff9-4438-4adb-a342-c30224489d98,TimeStamp=8/26/2022 2:30:16 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 35D4108B,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Kasey Bates" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Kasey Bates' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Kasey Bates:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=14c52e9b-7007-4d73-abbc-a37d949f97f5,TimeStamp=8/26/2022 2:30:17 PM] [FailureCategory=Cmdlet-InvalidOperationException] 59809142,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'kisimpson2@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=bcd064b0-7c5c-4543-82ed-499279eb78ac,TimeStamp=8/26/2022 2:30:18 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 4E1B9CFE,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'kvygnal@venusconcept.onmicrosoft.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=50a3cbf8-e486-44f4-8e27-66fc1cd8c2f3,TimeStamp=8/26/2022 2:30:18 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 1F6D3B6C,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Kishan  Patel" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Kishan  Patel' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Kishan  Patel:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=2d95cdcc-89ea-4108-8362-1d2e293a41ae,TimeStamp=8/26/2022 2:30:18 PM] [FailureCategory=Cmdlet-InvalidOperationException] 970BEC82,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'kpatel@venusconcept.onmicrosoft.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=4e0b8dda-2dad-48ab-80dd-efdd0e8454c4,TimeStamp=8/26/2022 2:30:19 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 719C725D,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Krista Plewes" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Krista Plewes' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Krista Plewes:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=f8a8145b-64aa-4c07-99b9-9ec686f8dec2,TimeStamp=8/26/2022 2:30:19 PM] [FailureCategory=Cmdlet-InvalidOperationException] CC288E1C,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'lboyens@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d9e1b027-dc9d-4018-af6d-9a6ed405a7ed,TimeStamp=8/26/2022 2:30:19 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 66DA1B5B,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'lmatillla@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=e18e8713-9841-4184-af45-731aa26b98e4,TimeStamp=8/26/2022 2:30:19 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 56C4E0CB,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'lowen@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=18474258-fd08-4d7d-aa06-9325893f9bcd,TimeStamp=8/26/2022 2:30:20 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 9C6014BC,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'lpauley@na.venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=7e4d718a-f539-479e-a1f4-69d4c8e94f6b,TimeStamp=8/26/2022 2:30:20 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 1E086042,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Leo  Woscoff" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Leo  Woscoff' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Leo  Woscoff:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ef6be12a-5c52-468d-bc56-c1f8431e2e20,TimeStamp=8/26/2022 2:30:20 PM] [FailureCategory=Cmdlet-InvalidOperationException] BAD0D155,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'limor@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=2fb1303f-f0ea-4042-8f82-6a1b6e124333,TimeStamp=8/26/2022 2:30:21 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] A20EC8FE,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Linda Barnes" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Linda Barnes' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Linda Barnes:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=9f528b41-ff51-4f18-8c15-20a7b59fde23,TimeStamp=8/26/2022 2:30:21 PM] [FailureCategory=Cmdlet-InvalidOperationException] B441E78F,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'lflyash@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=88491c42-9ba2-493a-90e4-01c594cc509d,TimeStamp=8/26/2022 2:30:21 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 44E9CBAA,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Lior Davidovitch" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Lior Davidovitch' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Lior Davidovitch:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=be112399-9c82-487a-bb31-2bb6ce11cca1,TimeStamp=8/26/2022 2:30:21 PM] [FailureCategory=Cmdlet-InvalidOperationException] 9E607FCD,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'lli' have been modified.
+The operation on mailbox "Lucila Urlich" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Lucila Urlich' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Lucila Urlich:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=f38a39df-ed53-4ed3-acb0-e088b75138ec,TimeStamp=8/26/2022 2:30:24 PM] [FailureCategory=Cmdlet-InvalidOperationException] 2B618067,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Luke Torres" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Luke Torres' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Luke Torres:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=c6745e21-1b79-4137-8c27-860fc3a56aa5,TimeStamp=8/26/2022 2:30:25 PM] [FailureCategory=Cmdlet-InvalidOperationException] FB6AE622,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'mpisharody' have been modified.
+The operation on mailbox "Mantas Blazys" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Mantas Blazys' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Mantas Blazys:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=2e7c8541-75d9-4232-91fd-63f56730d599,TimeStamp=8/26/2022 2:30:26 PM] [FailureCategory=Cmdlet-InvalidOperationException] 208C0387,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'alejandra.moreno@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=f4c1d3d0-3b46-4ee8-8243-0b61ab46f2e3,TimeStamp=8/26/2022 2:30:27 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 7BDF3CDB,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Mathis Glover" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Mathis Glover' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Mathis Glover:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=45f2df42-3dec-4775-9f92-f8864b3ef71d,TimeStamp=8/26/2022 2:30:32 PM] [FailureCategory=Cmdlet-InvalidOperationException] 8A0EFEEF,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'msolanki@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=8a5c4a79-e2c9-4f26-92d2-3dcbf638fea0,TimeStamp=8/26/2022 2:30:33 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 42A449DD,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Mayra Medina" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Mayra Medina' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Mayra Medina:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=5d273234-289a-4452-bc9a-4f5ba1afb06c,TimeStamp=8/26/2022 2:30:33 PM] [FailureCategory=Cmdlet-InvalidOperationException] 6AA4BC46,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'melissa@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=25bf4923-3ac3-4dfe-aa35-77d4c731f7dc,TimeStamp=8/26/2022 2:30:33 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 1ECB0323,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Melissa Kang" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Melissa Kang' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Melissa Kang:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=40d997e7-255d-4239-b1b4-9c07ed7a43aa,TimeStamp=8/26/2022 2:30:33 PM] [FailureCategory=Cmdlet-InvalidOperationException] E00F27A7,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'mtorres@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=7e516b56-2a63-4adc-88ec-056e38aae6b3,TimeStamp=8/26/2022 2:30:34 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] D902F47F,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Michael Avraham" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Michael Avraham' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Michael Avraham:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=585a885e-f076-43db-85c4-53f66c5a1156,TimeStamp=8/26/2022 2:30:34 PM] [FailureCategory=Cmdlet-InvalidOperationException] 37012F5B,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Michael Komkov" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Michael Komkov' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Michael Komkov:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=4f1d3101-d5dc-4233-8dab-b516df53829a,TimeStamp=8/26/2022 2:30:35 PM] [FailureCategory=Cmdlet-InvalidOperationException] 6D041296,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Michael Williams" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Michael Williams' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Michael Williams:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ea9161a2-be12-410b-acc2-6353fd816c3c,TimeStamp=8/26/2022 2:30:35 PM] [FailureCategory=Cmdlet-InvalidOperationException] E9638D3F,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'mcatinas@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ce2bf622-681e-44ff-8fdb-beb13c6974bc,TimeStamp=8/26/2022 2:30:37 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] ECE4575B,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Mitch  DeShon" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Mitch  DeShon' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Mitch  DeShon:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=dc9cf860-8cc8-4ba3-8531-a3be054cf9b4,TimeStamp=8/26/2022 2:30:37 PM] [FailureCategory=Cmdlet-InvalidOperationException] 10A56632,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'MA@venusconcept.onmicrosoft.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=4881bb61-538d-47c3-9309-a4f10e614e51,TimeStamp=8/26/2022 2:30:38 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 10CC2770,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'msasiharan@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ca96a051-b96d-48f6-9118-5846a1d4fd2b,TimeStamp=8/26/2022 2:30:39 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 120E645E,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'nancyn@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0c667b55-2e6e-4deb-a5cd-5bcd7e896461,TimeStamp=8/26/2022 2:30:39 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] DE8AEC82,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Natali Galperin_1b6045766a" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Natali Galperin_1b6045766a'
+because the object is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Natali Galperin_1b6045766a:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=f8e82ecf-62aa-4686-a9a0-375678c15253,TimeStamp=8/26/2022 2:30:40 PM] [FailureCategory=Cmdlet-InvalidOperationException] D66DE918,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Nero Henderson" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Nero Henderson' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Nero Henderson:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=438df506-8f89-42ee-ac0d-1747108f5c24,TimeStamp=8/26/2022 2:30:41 PM] [FailureCategory=Cmdlet-InvalidOperationException] 6ADEDEE2,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Ofer Katzir" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Ofer Katzir' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Ofer Katzir:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=4eebb47f-cd86-4335-8bd5-37cffbb5f7eb,TimeStamp=8/26/2022 2:30:42 PM] [FailureCategory=Cmdlet-InvalidOperationException] B2F1A051,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Oleg Perlin" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Oleg Perlin' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Oleg Perlin:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=bb2a373e-18d9-4fca-8b03-98a2408815ab,TimeStamp=8/26/2022 2:30:43 PM] [FailureCategory=Cmdlet-InvalidOperationException] 6A6296B9,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'pgamaza@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=7bd8ff0e-de13-4e6f-9860-642f3b26424e,TimeStamp=8/26/2022 2:30:44 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 8259920E,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'Paola@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=82259fb9-e26f-4426-b9f7-c11ae342500e,TimeStamp=8/26/2022 2:30:45 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] B48E47E4,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Priyanka Roy Barman" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Priyanka Roy Barman' because the
+object is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Priyanka Roy Barman:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=e0475b2c-1243-4431-8caf-8b3956726a9d,TimeStamp=8/26/2022 2:30:46 PM] [FailureCategory=Cmdlet-InvalidOperationException] 33ED7B3A,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Rafael Martinez" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Rafael Martinez' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Rafael Martinez:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=6ea7f328-2023-49b9-8048-7ebefa455bd6,TimeStamp=8/26/2022 2:30:47 PM] [FailureCategory=Cmdlet-InvalidOperationException] 252CE84F,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'Rajesh.Sain@na.venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=5d6a7588-3daf-4a08-8775-5fd332d4b9b9,TimeStamp=8/26/2022 2:30:47 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] AAEA8BFA,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'rcardenas@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=43c58bed-cdcb-4331-9152-13e398db5a97,TimeStamp=8/26/2022 2:30:48 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 3C903D28,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Remy Delquignies" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Remy Delquignies' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Remy Delquignies:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0c8d8691-05a0-4164-addb-e05b15b6b2bd,TimeStamp=8/26/2022 2:30:49 PM] [FailureCategory=Cmdlet-InvalidOperationException] 8C6ABAD1,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Ronald Stewart" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Ronald Stewart' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Ronald Stewart:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=113fec23-f3d1-47cc-bf1b-8ea48c8b590d,TimeStamp=8/26/2022 2:30:51 PM] [FailureCategory=Cmdlet-InvalidOperationException] 1FE70F38,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Roxana Wagner" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Roxana Wagner' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Roxana Wagner:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=b19b28c4-2e3d-49f5-a5ce-ef52fc45dc6c,TimeStamp=8/26/2022 2:30:51 PM] [FailureCategory=Cmdlet-InvalidOperationException] FCE74F4F,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'saiful@venusconcept.onmicrosoft.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=47fcfb29-2b02-4bc4-b91a-6e6dcbae9a86,TimeStamp=8/26/2022 2:30:52 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] C007AB30,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Sangmi Lee" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Sangmi Lee' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Sangmi Lee:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=4d2f7e16-1039-4f18-b7f4-97bbbec48b83,TimeStamp=8/26/2022 2:30:53 PM] [FailureCategory=Cmdlet-InvalidOperationException] D4840427,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Sanjay Swamy_3fe514eb3c" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Sanjay Swamy_3fe514eb3c' because
+the object is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Sanjay Swamy_3fe514eb3c:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=b90001be-1858-49a9-bcb3-67a6b30ced0a,TimeStamp=8/26/2022 2:30:53 PM] [FailureCategory=Cmdlet-InvalidOperationException] F40265C3,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Sean Carr" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Sean Carr' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Sean Carr:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=733b3364-02cc-48f3-93ec-10a5ce57a5f1,TimeStamp=8/26/2022 2:30:54 PM] [FailureCategory=Cmdlet-InvalidOperationException] A435A907,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'Semon@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=e3bc7deb-d9d3-448e-a5d1-81a26b7527aa,TimeStamp=8/26/2022 2:30:55 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 37A1B9DF,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Serge Lussier" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Serge Lussier' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Serge Lussier:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=b46f4d3a-4501-4b4f-a25c-1c03efc6825f,TimeStamp=8/26/2022 2:30:55 PM] [FailureCategory=Cmdlet-InvalidOperationException] B87AF4C1,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'Shahar_k@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=da914f83-bda9-4ba1-893e-8f8c51eaf701,TimeStamp=8/26/2022 2:30:56 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 69DBBCA6,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Shantelle  Harrikissoon" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Shantelle  Harrikissoon' because
+the object is being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Shantelle  Harrikissoon:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0fa8c1a1-8c72-49fb-91a6-f47c8c4be830,TimeStamp=8/26/2022 2:30:56 PM] [FailureCategory=Cmdlet-InvalidOperationException] 8C7A3A4,Microsoft.Exchange.Management.RecipientTasks.
+   SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'siicanada' have been modified.
+WARNING: The command completed successfully but no settings of 'sland' have been modified.
+The operation couldn't be performed because object 'ssomal@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=112a8685-79ed-4b9f-a0da-302468d94f9b,TimeStamp=8/26/2022 2:30:58 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] FF13C944,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'nguyen.son' have been modified.
+The operation couldn't be performed because object 'SG@venusconcept.onmicrosoft.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=2538052e-92ad-45f8-816f-f2e350ac1e1c,TimeStamp=8/26/2022 2:30:59 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 2C179618,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'slim@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=073053d6-3502-469d-849c-0230766cc2d1,TimeStamp=8/26/2022 2:31:00 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 712083CC,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Stephany Cortes" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Stephany Cortes' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Stephany Cortes:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=b4247ba4-e034-4628-b750-dabeadce6a06,TimeStamp=8/26/2022 2:31:00 PM] [FailureCategory=Cmdlet-InvalidOperationException] 89A29006,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Steve Harsnett" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Steve Harsnett' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Steve Harsnett:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=c32d6f78-0c71-4345-a110-20673c2b00df,TimeStamp=8/26/2022 2:31:00 PM] [FailureCategory=Cmdlet-InvalidOperationException] CFC7D9B2,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Steven Herrera" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Steven Herrera' because the object is
+being synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Steven Herrera:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=ce2bce49-bf24-479b-9699-293c533e0e47,TimeStamp=8/26/2022 2:31:00 PM] [FailureCategory=Cmdlet-InvalidOperationException] FF7BF09E,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'ssan@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=3028a5d8-afdc-40ee-88fc-c69694387cdb,TimeStamp=8/26/2022 2:31:01 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 563E3400,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'swkim@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=e0dffe9a-dab9-4719-99cd-4ddf4fe01717,TimeStamp=8/26/2022 2:31:01 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] C2808938,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'testuser1@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=11b60c70-133e-4003-8c63-c406d5081589,TimeStamp=8/26/2022 2:31:02 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] D5B0CD33,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'tran.thien@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=6623005b-6cb5-48e9-99ef-ffeb7275a37a,TimeStamp=8/26/2022 2:31:02 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] DE4B1206,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Thyrza  Price" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Thyrza  Price' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Thyrza  Price:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=af746a60-eb52-46e7-8bdf-877d0f986483,TimeStamp=8/26/2022 2:31:03 PM] [FailureCategory=Cmdlet-InvalidOperationException] 24DDF921,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'tinab@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=8f2c3b8e-6c26-4faa-92e2-fef4465912c8,TimeStamp=8/26/2022 2:31:03 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] EAC60A8D,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Todd Berner" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Todd Berner' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Todd Berner:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d7c12c18-0c6f-494d-9d4d-7f8bd53948a7,TimeStamp=8/26/2022 2:31:04 PM] [FailureCategory=Cmdlet-InvalidOperationException] 60AF97CB,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'tonyt' have been modified.
+The operation couldn't be performed because object 'tsalom@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=c974a44d-9162-42d1-bd47-45527cbb54d6,TimeStamp=8/26/2022 2:31:06 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] AA474EB9,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation couldn't be performed because object 'tnguyen@na.venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=7666dde6-b113-45b5-9e15-fdc86c4dd3fa,TimeStamp=8/26/2022 2:31:06 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] F96F3864,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'Venus Concept_895b4be205' have been modified.
+WARNING: The command completed successfully but no settings of 'Venus Concept_c8f3378eb0' have been modified.
+The operation couldn't be performed because object 'walkme@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d90f5f0d-f9b6-4ac5-afec-5d9b1c588ff0,TimeStamp=8/26/2022 2:31:09 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] E9A96326,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "ximena ladino" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'ximena ladino' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (ximena ladino:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=0ef65f3c-d09c-45de-b7bd-6706307f1a9f,TimeStamp=8/26/2022 2:31:10 PM] [FailureCategory=Cmdlet-InvalidOperationException] 6B4777E7,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+The operation on mailbox "Yaniv Maman" failed because it's out of the current user's write scope. The action 'Set-Mailbox', 'HiddenFromAddressListsEnabled', can't be performed on the object 'Yaniv Maman' because the object is being
+synchronized from your on-premises organization. This action should be performed on the object in your on-premises organization.
+    + CategoryInfo          : InvalidOperation: (Yaniv Maman:ADObjectId) [Set-Mailbox], InvalidOperationException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=d2af1b18-fc65-4db0-8f10-3f05dc94795c,TimeStamp=8/26/2022 2:31:11 PM] [FailureCategory=Cmdlet-InvalidOperationException] 7B804153,Microsoft.Exchange.Management.RecipientTasks
+   .SetMailbox
+    + PSComputerName        : outlook.office365.com
+
+WARNING: The command completed successfully but no settings of 'ygoldenberg' have been modified.
+WARNING: The command completed successfully but no settings of 'ydanovich' have been modified.
+The operation couldn't be performed because object 'kanaji@venusconcept.com' couldn't be found on 'BN8PR11A09DC006.NAMPR11A009.PROD.OUTLOOK.COM'.
+    + CategoryInfo          : NotSpecified: (:) [Set-Mailbox], ManagementObjectNotFoundException
+    + FullyQualifiedErrorId : [Server=MN2PR11MB4744,RequestId=996824d7-0d16-4f06-91a1-988f653f6531,TimeStamp=8/26/2022 2:31:12 PM] [FailureCategory=Cmdlet-ManagementObjectNotFoundException] 60C80F91,Microsoft.Exchange.Management.Recipi
+   entTasks.SetMailbox
+    + PSComputerName        : outlook.office365.com

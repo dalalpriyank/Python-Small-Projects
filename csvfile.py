@@ -24,4 +24,7 @@ with open('test.csv', 'r') as file:
         })
         #pdb.set_trace()
         print(numeOfRow, ")",row[0]," status is ", response.status_code," on",row[1])
+        f = open("demofile2.txt", "a")
+        f.write(str(numeOfRow)+" )"+row[0]+"status is  "+str(response.status_code)+" on "+row[1]+" \n")
+        f.close()
         numeOfRow += 1
